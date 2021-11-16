@@ -1,4 +1,4 @@
-# bMovies - Watch Movies Online For Free Using Torrent
+# [bMovies - Watch Movies Online For Free Using Torrent](https://thirsty-johnson-8e4572.netlify.app/)
 
 This project is just for educational purpose only.
 
@@ -24,3 +24,7 @@ npm install
 npm start
 
 ```
+
+## Known Issues
+
+Since the files are served using torrent url it may take upto 5 minutes to load completely.
